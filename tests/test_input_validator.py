@@ -8,7 +8,7 @@ class TestInputValidator(unittest.TestCase):
         return os.path.join(os.path.dirname(__file__), "test_inputs", filename)
 
     def test_input(self):
-        file_path = self.get_file_path("input.txt")
+        file_path = self.get_file_path("dfa_input.txt")
         validator = InputValidator(file_path)
         try:
             validator.validate()
