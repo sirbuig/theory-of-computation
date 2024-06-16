@@ -1,6 +1,6 @@
 import unittest
 import os
-from automatalib.dfa_validator import DFA
+from automatalib.dfa_engine import DFA
 from automatalib.input_validator import InputValidator
 
 
