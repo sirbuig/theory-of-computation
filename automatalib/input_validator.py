@@ -91,7 +91,7 @@ class InputValidator:
 #     validator = InputValidator(
 #         os.path.join(
 #             os.path.dirname(
-#                 "/home/sig/Projects/theory-of-computation/tests/test_inputs"
+#                 "/home/sirbuig/Projects/theory-of-computation/tests/test_inputs"
 #             ),
 #             "test_inputs",
 #             "input.txt",

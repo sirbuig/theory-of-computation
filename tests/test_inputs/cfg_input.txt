@@ -1,0 +1,27 @@
+# comment lines
+Variables:
+    S
+    A
+    B
+End
+#
+# comment lines
+#
+Terminals:
+    a
+    b
+End
+#
+# comment lines
+#
+Productions:
+    S -> A B
+    A -> a A | a
+    B -> b B | b
+End
+#
+# comment lines
+#
+Start:
+    S
+End
