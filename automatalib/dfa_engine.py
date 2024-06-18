@@ -1,5 +1,5 @@
 import sys
-from input_validator import InputValidator
+from automatalib.input_validator import InputValidator
 
 
 class DFA:
