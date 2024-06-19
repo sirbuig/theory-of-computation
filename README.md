@@ -13,7 +13,7 @@ This library implements and tests the following:
 - [x] an input validator that checks if a given configuration file is valid or not
 - [x] a program that loads and then generates a DFA based on an input file and checks if it accepts a given string
 - [x] a program that creates a NFA and converts it to a DFA
-- [x] a program that loads a validates a CFG configuration file
+- [x] a program that loads and validates a CFG configuration file
 - [ ] ~a program that creates a PDA and converts it to a CFG~
 
 ## Installation
