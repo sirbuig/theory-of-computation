@@ -14,7 +14,7 @@ This library implements and tests the following:
 - [x] a program that loads and then generates a DFA based on an input file and checks if it accepts a given string
 - [x] a program that creates a NFA and converts it to a DFA
 - [x] a program that loads a validates a CFG configuration file
-- [ ] a program that creates a PDA and converts it to a CFG
+- [ ] ~a program that creates a PDA and converts it to a CFG~
 
 ## Installation
 
@@ -46,4 +46,4 @@ Ensure you have the following installed:
 
 ## Usage
 
-From the root of the folder run `pytest`
+From the root of the folder run `pytest`.
